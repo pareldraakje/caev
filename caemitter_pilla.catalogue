@@ -1,0 +1,7 @@
+TAG "Agent Help 2 23 20853"
+"CAev: Cellular Automata emitter vendor"
+"This is the CAev, a cute thing that spawns bubbles.\n\nThe bubblers emit cellular automata (CA).\n\nAvailable CA:\nsound, light, heat, rain, nutrients, water, protein, carbohydrates, fat, flowers, machinery and CA18 (gadget?)\nThe middle buttons are norn, grendel, ettin, norn home, grendel home and ettin home smells.\n\nYou can control the CA strength of, disable and/or remove each bubble.\n\n\nCreated by Pilla."
+
+TAG "Agent Help 1 1 20853"
+"CA bubble"
+"This bubble emits cellular automata into your game.\n\nTop button: Disable bubble.\nClick: Increase strength.\nShift-click: Remove bubble.\n\nEmitter strength:\n0, 0.05, 0.1, 0.2, 0.5, 0.9, 1, 2.\n\n\nCreated by Pilla."

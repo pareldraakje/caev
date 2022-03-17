@@ -1,0 +1,26 @@
+"en-GB"
+
+
+group DSAG "CAev emitter vendor"
+"Dependency 1" "caemitter_pilla.catalogue"
+"Dependency 2" "caemitter_pilla.c16"
+"Agent Animation Gallery" "caemitter_pilla"
+"Agent Description" "This is CAev.\n\nIt injects bubbles into your game which emit cellular automata (CA).\n- Variable strength\n- Shift-click remove\n- Disable\n- Cute\n\nRead the agent help!\n\nCreated by Pilla."
+"Agent Animation File" "caemitter_pilla.c16"
+"Agent Animation Gallery" "caemitter_pilla"
+"Web URL" "Creaturescaves.com" 
+"Web Label" "CreaturesCaves"
+"Remove script" "enum 2 23 20853\n	kill targ\nnext\nenum 1 1 20853\n	kill targ\nnext"
+
+"Script Count" 1
+"Script 1" @ "caemitter20853_pilla.cos"
+
+"Agent Type" 0
+"Dependency Count" 2
+"Dependency Category 1" 7
+"Dependency Category 2" 2
+"Agent Sprite First Image" 0
+
+inline FILE "caemitter_pilla.c16" "caemitter_pilla.c16"
+inline FILE "caemitter_pilla.catalogue" "caemitter_pilla.catalogue"
+
